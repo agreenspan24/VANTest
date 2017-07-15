@@ -3,7 +3,11 @@ Hello NGP VAN Reviewers on the design team,
 Please take a look here at my coding test, creating front-end list and details pages.
 
 Please note that many of these files were either auto-generated or unnecessary. The only
+<<<<<<< HEAD
 files necessary for the review are: 
+=======
+files necessary for the production are: 
+>>>>>>> master
 - listPage.html
 - detailsPage.html
 - style.css
