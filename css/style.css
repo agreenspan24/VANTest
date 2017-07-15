@@ -1,0 +1,23 @@
+.app-nav-header {
+    background-color: #228ae6;
+}
+body {
+    background-color: #F8F9FA;
+    padding-bottom: 50px;
+}
+.app-content {
+    padding-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.cyan {
+    background-color: #00BCD4;
+    color: #fff;
+    border-color: #00BCD4;
+}
+.page-title-actions {
+    display: inline-flex;
+}
+.no-data-message {
+    text-align: center;
+}
